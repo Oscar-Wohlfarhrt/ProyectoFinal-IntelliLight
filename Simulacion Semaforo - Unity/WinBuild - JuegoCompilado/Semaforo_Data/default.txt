@@ -1,0 +1,17 @@
+4
+RA	R	R	R	2
+V	R	R	R	10
+Vtn	R	R	R	2
+A	R	R	R	3
+R	RA	R	R	2
+R	V	R	R	10
+R	Vtn	R	R	2
+R	A	R	R	3
+R	R	RA	R	2
+R	R	V	R	10
+R	R	Vtn	R	2
+R	R	A	R	3
+R	R	R	RA	2
+R	R	R	V	10
+R	R	R	Vtn	2
+R	R	R	A	3
