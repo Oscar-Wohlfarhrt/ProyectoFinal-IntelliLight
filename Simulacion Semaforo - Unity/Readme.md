@@ -1,4 +1,5 @@
-Controles para la simualción
+# Controles para la simualción
+
 
 
 Para moverse se debe mantener pulsado click derecho.
